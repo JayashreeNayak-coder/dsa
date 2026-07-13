@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayashreeNayak-coder/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayashreeNayak-coder/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JayashreeNayak-coder/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayashreeNayak-coder/dsa/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayashreeNayak-coder/dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
