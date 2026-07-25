@@ -16,7 +16,7 @@ class Solution {
             int curr=matrix[i][j];
 
             while(loop<=4){
-            int[] pos = findNew(row - i, col - k, n, loop);
+            int[] pos = findNew(row - i, col - k, n);
             temp = matrix[pos[0] + i][pos[1] + k];
             matrix[pos[0] + i][pos[1] + k] = curr;
             row = pos[0] + i;
@@ -32,7 +32,7 @@ class Solution {
     }
 
     }
-    public int[] findNew(int row, int col, int n, int loop) {
+    public int[] findNew(int row, int col, int n) {
 
     n = n - 1;
 
