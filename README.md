@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JayashreeNayak-coder/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0796-rotate-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -91,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JayashreeNayak-coder/dsa/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/JayashreeNayak-coder/dsa/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JayashreeNayak-coder/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
