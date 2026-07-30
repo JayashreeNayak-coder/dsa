@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JayashreeNayak-coder/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JayashreeNayak-coder/dsa/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/JayashreeNayak-coder/dsa/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JayashreeNayak-coder/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Dynamic Programming
 |  |
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JayashreeNayak-coder/dsa/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/JayashreeNayak-coder/dsa/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JayashreeNayak-coder/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
