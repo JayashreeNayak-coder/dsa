@@ -7,8 +7,8 @@ class Solution {
 
         for(int i=0;i<nums.length;i++){
             prefix[i+1]=prefix[i]+nums[i];
-            //System.out.println(prefix[i]);
         }
+        
         for(int i=1;i<prefix.length;i++){
             lowest=Math.min(lowest,prefix[i]);
         }
