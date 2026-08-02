@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JayashreeNayak-coder/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JayashreeNayak-coder/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JayashreeNayak-coder/dsa/tree/master/0242-valid-anagram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JayashreeNayak-coder/dsa/tree/master/0169-majority-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JayashreeNayak-coder/dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
