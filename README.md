@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JayashreeNayak-coder/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JayashreeNayak-coder/dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JayashreeNayak-coder/dsa/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JayashreeNayak-coder/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JayashreeNayak-coder/dsa/tree/master/0242-valid-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JayashreeNayak-coder/dsa/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JayashreeNayak-coder/dsa/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JayashreeNayak-coder/dsa/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
