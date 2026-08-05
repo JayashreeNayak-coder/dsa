@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/JayashreeNayak-coder/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JayashreeNayak-coder/dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1854-maximum-population-year](https://github.com/JayashreeNayak-coder/dsa/tree/master/1854-maximum-population-year) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JayashreeNayak-coder/dsa/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JayashreeNayak-coder/dsa/tree/master/0169-majority-element) |
+| [1854-maximum-population-year](https://github.com/JayashreeNayak-coder/dsa/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JayashreeNayak-coder/dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1854-maximum-population-year](https://github.com/JayashreeNayak-coder/dsa/tree/master/1854-maximum-population-year) |
 ## Sliding Window
 |  |
 | ------- |
