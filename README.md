@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JayashreeNayak-coder/dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/JayashreeNayak-coder/dsa/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/JayashreeNayak-coder/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/JayashreeNayak-coder/dsa/tree/master/0053-maximum-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JayashreeNayak-coder/dsa/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/JayashreeNayak-coder/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/JayashreeNayak-coder/dsa/tree/master/0242-valid-anagram) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JayashreeNayak-coder/dsa/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JayashreeNayak-coder/dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
