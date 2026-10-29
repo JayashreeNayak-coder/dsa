@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/JayashreeNayak-coder/dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/JayashreeNayak-coder/dsa/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1768-merge-strings-alternately](https://github.com/JayashreeNayak-coder/dsa/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JayashreeNayak-coder/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/JayashreeNayak-coder/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
